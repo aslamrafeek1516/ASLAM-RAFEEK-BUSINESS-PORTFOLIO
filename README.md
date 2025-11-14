@@ -1,4 +1,4 @@
-# Mahin Ansar — Portfolio (Static)
+# ASLAM RAFEEK — Portfolio (Static)
 
 This folder contains a simple static portfolio site for Mahin Ansar. It uses a black / white / light-green color palette and Arial / sans-serif fonts.
 
@@ -25,4 +25,5 @@ Adding a hero photo
 
 License & notes
 - This is a simple portfolio starter. Add your images, testimonials and project screenshots to make it richer.
+
 
